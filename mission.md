@@ -6,7 +6,7 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ## help people vibe with life 🤝
 
-- Our core question is: "do you feel aligned and connected enough with the people, places, and rhythms of your life?" - a more specific way of asking how much you vibe with life.
+- Our core question is: "_do you feel aligned and connected enough with the people, places, and rhythms of your life?_" - a more specific way of asking how much you vibe with life.
 
 - We're here to help those who dont feel aligned or connected enough. We cannot guarentee we help, but we can try. Often, this takes the form of helping people unlock their own agency.
 
@@ -34,7 +34,7 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 - Requires no traditional socializing.
 
-- "do your own thing, with other people close...(or just chat, we are not your mom)"
+- >"_do your own thing, with other people close...(or just chat, we are not your mom)_"
 
 - Similar to: coffeeshop, computer lab, Student Union, community center.
 
@@ -54,7 +54,7 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ## give and receive quests 🧙‍♂️
 
-- A quest can be anything; for example: "the first 3 people to do a backflip in front of me all get $50."
+- A quest can be anything; for example: "_the first 3 people to do a backflip in front of me all get $50._"
 
 - There can be no money involved or you can reward people for completing your quests.
 
