@@ -4,28 +4,6 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ---
 
-## help people vibe with life 🤝
-
-- Our core question is: "_do you feel aligned and connected enough with the people, places, and rhythms of your life?_" - a more specific way of asking how much you vibe with life.
-
-- We're here to help those who dont feel aligned or connected enough. We cannot guarentee we help, but we can try. Often, this takes the form of helping people unlock their own agency.
-
-- The end goal is to vibe with life, which is a state where you feel that no change is needed in life, even when everything around you is changing or you are pursuing change.
-
----
-
-## create self-sufficient home & community 🏡
-
-- Create and use our own tech stack: from hardware to software.
-
-- Our own Twitter, Instagram, AWS, phone hardware, network hardware, etc.
-
-- Same vibe as living off the land (we want to do that eventually too). We want to survive. We want to protect.
-
-- We want a home. We want a community. With roots in physical places, yet strong enough to transcend the physical.
-
----
-
 ## build a low-effort hangout spot 🏯
 
 - Build a low-effort hangout spot and community center.
@@ -44,11 +22,13 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ---
 
-## learn, create, share, experiment, play 🧠
+## help people vibe with life 🤝
 
-- We want to learn. We want to create. Because we simply enjoy it.
+- Our core question is: "_do you feel aligned and connected enough with the people, places, and rhythms of your life?_" - a more specific way of asking how much you vibe with life.
 
-- Resonance or participation is never guarenteed, but we strive to be a community where you can share, experiment, and play with new ideas or creations.
+- We're here to help those who dont feel aligned or connected enough. We cannot guarentee we help, but we can try. Often, this takes the form of helping people unlock their own agency.
+
+- The end goal is to vibe with life, which is a state where you feel that no change is needed in life, even when everything around you is changing or you are pursuing change. The process to vibe more with life is called heart alignment.
 
 ---
 
@@ -61,6 +41,26 @@ Below are the core mission statements driving our project. Each reflects a piece
 - Then, at scale you have frens making money by taking quests from frens. Making money from all kinds of niche stuff that no one has ever made money from before. Making this a norm in the community could jumpstart an exciting future.
 
 - This can be done completely word of mouth; however, we plan to create technology for posting, viewing, and accepting quests.
+
+---
+
+## learn, create, share, experiment, play 🧠
+
+- We want to learn. We want to create. Because we simply enjoy it.
+
+- Resonance or participation is never guarenteed, but we strive to be a community where you can share, experiment, and play with new ideas or creations.
+
+---
+
+## create self-sufficient home & community 🏡
+
+- Create and use our own tech stack: from hardware to software.
+
+- Our own Twitter, Instagram, AWS, phone hardware, network hardware, etc.
+
+- Same vibe as living off the land (we want to do that eventually too). We want to survive. We want to protect.
+
+- We want a home. We want a community. With roots in physical places, yet strong enough to transcend the physical.
 
 ---
 
