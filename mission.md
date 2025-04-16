@@ -4,9 +4,9 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ---
 
-## build a low-effort hangout spot 🏯
+## create and nurture heart-aligning community spaces 🏯
 
-- Build a low-effort hangout spot and community center.
+- Spaces where anyone can slow down, reconnect with what is alive for them, and do literally whatever they want – all with the presence of other people closeby.
 
 - Requires no money spent for visitors.
 
@@ -16,7 +16,7 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 - Similar to: coffeeshop, computer lab, Student Union, community center.
 
-- Ideally, there is both explicit quiet areas and nonquiet areas.
+- Both explicit quiet areas and nonquiet areas.
 
 - Both in the physical world and a version in cyberspace.
 
@@ -24,11 +24,11 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ## help people vibe with life 🤝
 
-- Our core question is: "_do you feel aligned and connected enough with the people, places, and rhythms of your life?_" - a more specific way of asking how much you vibe with life.
+- Our core question is: "_do you feel aligned and connected enough with the people, places, and rhythms of your specific daily life?_" - a more specific way of asking the abstract question of how much you vibe with life.
 
-- We're here to help those who dont feel aligned or connected enough. We cannot guarentee we help, but we can try. Often, this takes the form of helping people unlock their own agency.
+- We're here to help those who dont feel aligned or connected enough. We cannot guarentee that we help or our spaces help, but we can try. Often, this takes the form of helping people unlock their own agency. This could be through casual conversations, silent relaxation, rigorous rational analysis, or exploring what feels alive for you.
 
-- The end goal is to vibe with life, which is a state where you feel that no change is needed in life, even when everything around you is changing or you are pursuing change. The process to vibe more with life is called heart alignment.
+- The end goal is to vibe with life, which is a state where you feel that no change is needed in life, even when everything around you is changing or you are pursuing change. The process to vibe more with life is called heart alignment. To become more aligned or connected with the people, places, and rhythms of your specific daily life. Or if you already feel aligned and connected, then you're simply vibing.
 
 ---
 
