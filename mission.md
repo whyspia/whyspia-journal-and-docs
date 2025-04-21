@@ -4,7 +4,7 @@ Below are the core mission statements driving our project. Each reflects a piece
 
 ---
 
-## create and nurture heart-aligning community spaces 🏯
+## nurture community spaces for reconnecting with life 🏯
 
 - Spaces where anyone can slow down, reconnect with what is alive for them, and do literally whatever they want – all with the presence of other people closeby.
 
